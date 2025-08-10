@@ -1,4 +1,4 @@
-<img width="1267" height="510" alt="image" src="https://github.com/user-attachments/assets/de2deb74-0c0e-4a69-a897-c4c580e4a22b" /># 📊 BitForecasting
+
 
 **BitForecasting** is an open-source project that uses **Artificial Intelligence** to analyze historical Bitcoin price data and predict future price movements.  
 The program detects **swing high** and **swing low** points in real-time and forecasts the next move.
@@ -17,7 +17,8 @@ The program detects **swing high** and **swing low** points in real-time and for
 ## 📷 Screenshots
 
 
-<img width="936" height="628" alt="image" src="https://github.com/user-attachments/assets/1c36d629-61a6-427b-9b9c-4b4bb622c2f3" />
+<img width="936" height="628" alt="image" src="https://github.com/user-attachments/assets/503256ee-dc72-41e1-878e-2ac38c09562f" />
+
 
 
 ---
